@@ -11,6 +11,8 @@ return [
     |
     */
 
+    'default_mrp_price'=>'MRP',
+    'discount'=> 'x Discount(%)',
     'exc_of_tax' => 'Exc. tax',
     'inc_of_tax' => 'Inc. tax',
     'profit_percent' => 'x Margin(%)',

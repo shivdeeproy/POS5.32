@@ -11,6 +11,7 @@ return [
     |
     */
 
+    'total_tax'=>'Total Tax',
     'sale' => 'Sell',
     'sells' => 'Sales',
     'list_sale' => 'List Sales',
